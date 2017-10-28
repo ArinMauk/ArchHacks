@@ -1,0 +1,27 @@
+{
+  "name": "arch-hacks",
+  "version": "1.0.0",
+  "description": "Use reddis to search and return data from a JSON containing half million datapoints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArinMauk/ArchHacks.git"
+  },
+  "keywords": [
+    "ArchHacks",
+    "health",
+    "reddis",
+    "web",
+    "big",
+    "data"
+  ],
+  "author": "Arin Mauk and Ben Huemann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArinMauk/ArchHacks/issues"
+  },
+  "homepage": "https://github.com/ArinMauk/ArchHacks#readme"
+}
