@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ArinMauk/ArchHacks/issues"
   },
-  "homepage": "https://github.com/ArinMauk/ArchHacks#readme"
+  "homepage": "https://github.com/ArinMauk/ArchHacks#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
 }
